@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AhmathNafees
-- 👀 I’m interested in Programming languages
+- 👀 I’m interested in learning Programming languages
 - 🌱 I’m currently learning advance python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
