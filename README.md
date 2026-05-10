@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer, Cloud & Devops Enthusiastic.
 
 🤔 I’m currently looking for opportunities to improve my self in real world problems.
 
-🌱 I’m currently learning Cloud Infrastructure Technologies and Devops Prectices
+🌱 I’m currently learning MERN stack.
 
 👯 I’m looking to collaborate on OpenSource Projects
 
